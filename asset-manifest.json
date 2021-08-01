@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SMIHB/newgmc.git/static/css/main.248976d8.chunk.css",
-    "main.js": "/SMIHB/newgmc.git/static/js/main.2999aa2d.chunk.js",
-    "main.js.map": "/SMIHB/newgmc.git/static/js/main.2999aa2d.chunk.js.map",
-    "runtime-main.js": "/SMIHB/newgmc.git/static/js/runtime-main.84fb34c2.js",
-    "runtime-main.js.map": "/SMIHB/newgmc.git/static/js/runtime-main.84fb34c2.js.map",
-    "static/js/2.6ac904b0.chunk.js": "/SMIHB/newgmc.git/static/js/2.6ac904b0.chunk.js",
-    "static/js/2.6ac904b0.chunk.js.map": "/SMIHB/newgmc.git/static/js/2.6ac904b0.chunk.js.map",
-    "index.html": "/SMIHB/newgmc.git/index.html",
-    "static/css/main.248976d8.chunk.css.map": "/SMIHB/newgmc.git/static/css/main.248976d8.chunk.css.map",
-    "static/js/2.6ac904b0.chunk.js.LICENSE.txt": "/SMIHB/newgmc.git/static/js/2.6ac904b0.chunk.js.LICENSE.txt"
+    "main.css": "/newgmc/static/css/main.248976d8.chunk.css",
+    "main.js": "/newgmc/static/js/main.2999aa2d.chunk.js",
+    "main.js.map": "/newgmc/static/js/main.2999aa2d.chunk.js.map",
+    "runtime-main.js": "/newgmc/static/js/runtime-main.096d042d.js",
+    "runtime-main.js.map": "/newgmc/static/js/runtime-main.096d042d.js.map",
+    "static/js/2.6ac904b0.chunk.js": "/newgmc/static/js/2.6ac904b0.chunk.js",
+    "static/js/2.6ac904b0.chunk.js.map": "/newgmc/static/js/2.6ac904b0.chunk.js.map",
+    "index.html": "/newgmc/index.html",
+    "static/css/main.248976d8.chunk.css.map": "/newgmc/static/css/main.248976d8.chunk.css.map",
+    "static/js/2.6ac904b0.chunk.js.LICENSE.txt": "/newgmc/static/js/2.6ac904b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.84fb34c2.js",
+    "static/js/runtime-main.096d042d.js",
     "static/js/2.6ac904b0.chunk.js",
     "static/css/main.248976d8.chunk.css",
     "static/js/main.2999aa2d.chunk.js"
