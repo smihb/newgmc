@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,qBACF,CACA,KACE,QAAS,CACT,+CACF,CACA,OACE,oCACF","file":"main.faea307e.chunk.css","sourcesContent":["*{\n  box-sizing: border-box;\n}\nbody {\n  margin: 0;\n  font-family: 'Roboto', Arial, Helvetica, sans-serif;\n}\n.color{\n  background-color: hsla(207, 31%, 18%, 0.522);\n}"]}
